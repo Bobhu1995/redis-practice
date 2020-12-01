@@ -11,4 +11,6 @@ cluster
 ./cluster
 
 TODO
-c++ hredis demo
+1、redis集群客户端分片
+2、codis体验
+3、c++ hredis demo
