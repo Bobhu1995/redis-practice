@@ -13,10 +13,10 @@ cluster
 
 ./cluster
 
+redis-proxy
+
+基于redis-cluster-proxy的代理集群
+
 TODO
 
-1、redis集群客户端分片
-
-2、codis体验
-
-3、c++ hredis demo
+c++ hredis demo

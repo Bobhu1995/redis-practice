@@ -1,0 +1,3 @@
+[submodule "redis-cluster-proxy"]
+	path = redis-cluster-proxy
+	url = https://github.com/RedisLabs/redis-cluster-proxy.git
